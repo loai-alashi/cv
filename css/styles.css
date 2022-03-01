@@ -1,0 +1,16 @@
+body {
+  background-color: #EAF6F6;
+    }
+hr {
+  background-color: white;
+  border-style: none;
+  height: 2px;
+  width: 75%
+  }
+
+  h3:hover{background-color: gold}
+
+h1{color: #66BFBF}
+  h2{color: #66BFBF}
+
+  h3{color: #66BFBF}
